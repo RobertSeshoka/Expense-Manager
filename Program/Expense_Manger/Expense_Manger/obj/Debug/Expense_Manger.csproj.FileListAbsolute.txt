@@ -1,0 +1,40 @@
+D:\Projects\PROG\Second Semester\Siya\Expense_Manger\Expense_Manger\bin\Debug\Expense_Manger.exe.config
+D:\Projects\PROG\Second Semester\Siya\Program\Expense_Manger\Expense_Manger\bin\Debug\Expense_Manger.exe.config
+D:\Projects\PROG\Second Semester\Siya\Program\Expense_Manger\Expense_Manger\bin\Debug\Expense_Manger.exe
+D:\Projects\PROG\Second Semester\Siya\Program\Expense_Manger\Expense_Manger\bin\Debug\Expense_Manger.pdb
+D:\Projects\PROG\Second Semester\Siya\Program\Expense_Manger\Expense_Manger\bin\Debug\DLL_Program.dll
+D:\Projects\PROG\Second Semester\Siya\Program\Expense_Manger\Expense_Manger\bin\Debug\DLL_Program.pdb
+D:\Projects\PROG\Second Semester\Siya\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.csprojResolveAssemblyReference.cache
+D:\Projects\PROG\Second Semester\Siya\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.Buy_vehicle.resources
+D:\Projects\PROG\Second Semester\Siya\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.Expense_menager.resources
+D:\Projects\PROG\Second Semester\Siya\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.Form1.resources
+D:\Projects\PROG\Second Semester\Siya\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.Properties.Resources.resources
+D:\Projects\PROG\Second Semester\Siya\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.Selection.resources
+D:\Projects\PROG\Second Semester\Siya\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.csproj.GenerateResource.Cache
+D:\Projects\PROG\Second Semester\Siya\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.exe
+D:\Projects\PROG\Second Semester\Siya\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.pdb
+D:\Projects\PROG\Second Semester\Siya\Expense Manager\Program\Expense_Manger\Expense_Manger\bin\Debug\Expense_Manger.exe.config
+D:\Projects\PROG\Second Semester\Siya\Expense Manager\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.exe
+D:\Projects\PROG\Second Semester\Siya\Expense Manager\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.pdb
+D:\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\bin\Debug\Expense_Manger.exe.config
+D:\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.exe
+D:\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.pdb
+E:\Projects\Programming\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\bin\Debug\Expense_Manger.exe.config
+E:\Projects\Programming\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.exe
+E:\Projects\Programming\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.pdb
+D:\Projects\Programming\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\bin\Debug\Expense_Manger.exe.config
+D:\Projects\Programming\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\bin\Debug\Expense_Manger.exe
+D:\Projects\Programming\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\bin\Debug\Expense_Manger.pdb
+D:\Projects\Programming\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\bin\Debug\DLL_Program.dll
+D:\Projects\Programming\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\bin\Debug\DLL_Program.pdb
+D:\Projects\Programming\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.csproj.AssemblyReference.cache
+D:\Projects\Programming\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.Buy_vehicle.resources
+D:\Projects\Programming\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.Expense_menager.resources
+D:\Projects\Programming\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.Form1.resources
+D:\Projects\Programming\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.Properties.Resources.resources
+D:\Projects\Programming\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.Selection.resources
+D:\Projects\Programming\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.csproj.GenerateResource.cache
+D:\Projects\Programming\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.csproj.CopyComplete
+D:\Projects\Programming\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.exe
+D:\Projects\Programming\Projects\PROG\Second Semester\Siya\Task 1\Expense Manager\Program\Expense_Manger\Expense_Manger\obj\Debug\Expense_Manger.pdb

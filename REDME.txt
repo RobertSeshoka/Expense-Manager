@@ -1,0 +1,14 @@
+NB: The application will not run in the class library it can only run in the main program which is Expense_Manager
+
+> Onlyu numbers can be accepted by the program
+> Click on the start button
+> Proceed to the second screen where you will enter and calculte and aslo save monthly expenses.
+> Scroll down to eneter values for buying a property
+> You enter required values and calculate them after you click on save button
+> You will need to save first before you can calculte
+
+> Press the selection button to be taken to the Selection form
+> Choose which option you would like to perform
+
+
+> Inside the main program is are class diagrams generated using Visual Studio
